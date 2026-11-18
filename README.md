@@ -10,7 +10,6 @@
 > **论文出处**：*Metabonaut: an open educational resource for learning reproducible, script-based untargeted LC-MS/MS metabolomics*  
 > **发表期刊**：*Metabolomics* (Oct 2026) | DOI: [`10.1007/s11306-026-02538-x`](https://doi.org/10.1007/s11306-026-02538-x) | PMID: `42829392`  
 > **原作者仓库**：[rformassspectrometry/Metabonaut](https://github.com/rformassspectrometry/Metabonaut) | **公开数据集**：[`MTBLS8735`](https://www.ebi.ac.uk/metabolights/MTBLS8735)  
-> **技术复盘与面试沉淀**：[docs/Metabonaut_项目复盘与STAR话术.md](./docs/Metabonaut_项目复盘与STAR话术.md)
 
 ---
 
@@ -52,7 +51,7 @@ reproduction/metabolomics/Metabonaut/
 │   └── 04_notame_drift_pqn_selection.R           # Step 4: notame 三次样条漂移校正、PQN、RF 填补与线性模型对比
 ├── repro_results/                                # 13 张高分辨率复现图、定量统计 TSV 与 environment_versions.tsv
 ├── upstream_Metabonaut/                          # 原作者 GitHub 仓库浅克隆对照（.gitignore 本地留存）
-├── docs/                                         # 技术复盘笔记与 STAR 面试问答库
+├── docs/                                         # 本地扩展技术笔记（私人资料已由 .gitignore 排除）
 └── logs/                                         # sessionInfo() 快照与运行日志
 ```
 
