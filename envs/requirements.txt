@@ -1,0 +1,5 @@
+# Optional Python dependencies for metabolomics workflows (e.g. MS2 spectral matching / spatial integration)
+# Create isolated venv if needed: python -m venv .venv
+# matchms>=0.26.0
+# pandas>=2.0.0
+# numpy>=1.26.0

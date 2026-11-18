@@ -1,0 +1,8 @@
+Metric	Value
+ChromPeaks_After_Refine	89185
+Merged_Peaks	9242
+Features_Grouped	9068
+Missing_Pct_Before_GapFill	26.41
+Missing_Pct_After_GapFill	5.16
+GapFill_QC_Slope	1.118
+Features_After_MissingFilter	8722

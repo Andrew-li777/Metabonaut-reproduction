@@ -1,0 +1,8 @@
+Metric	Value
+Total_Input_Features	300
+QC_Filtered_Features	286
+Removed_Noisy_Features	14
+Median_QC_RSD_Percent	7.43
+PC1_Var_Percent	21.9
+PC2_Var_Percent	8.8
+QC_Centroid_Spread	0.273
